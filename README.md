@@ -7,5 +7,6 @@ Leren voor AML
 * [Vliegtuiginstrumenten](/docs/vliegtuiginstrumenten.md)
 * [Elektrische installaties](/docs/elektrische_installaties.md)
 
-links:
-http://www.ctz.zweefportaal.nl/main/website/pages/home.php
+## links:
+* [Commissie Technische Zaken](http://www.ctz.zweefportaal.nl/main/website/pages/home.php)
+* [Commissie Technische Zaken - leerstof](http://ctz.zweefportaal.nl/main/website/pages/technicus.php)
