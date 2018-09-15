@@ -22,6 +22,6 @@ Leren voor AML
 - [Wettelijk vereiste basiskennis AML-A](http://wetten.overheid.nl/BWBR0024639/2010-06-05#Bijlage1)
 - [Exameneisen AML-A (samenvatting)](http://ctz.zweefportaal.nl/main/Technicus/TechnicusHandboek2007/eisen_AML-A.pdf)
 
-## links:
+## links
 * [Commissie Technische Zaken](http://www.ctz.zweefportaal.nl/main/website/pages/home.php)
 * [Commissie Technische Zaken - leerstof](http://ctz.zweefportaal.nl/main/website/pages/technicus.php)
