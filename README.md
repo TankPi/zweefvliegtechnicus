@@ -1,11 +1,16 @@
 # zweefvliegtechnicus
 Leren voor AML 
 
-## Planning
-kjlsfdjsf
+## To do
 
-## Todo
-
+## Brain dump
+* examens maken
+* overzicht van examens maken
+* overzicht van examenstof maken
+* stof lezen
+* met Sjef door examen vliegtuigen heen gaan
+* deelcertificaat voorschriften zoeken
+* maximale geligheid deelcertificaat voorschriften achterhalen
 
 ## Vakken AML A
 * [Vliegtuigen](/docs/vliegtuigen.md)
