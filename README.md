@@ -2,10 +2,10 @@
 Leren voor AML 
 
 ## Vakken AML A
-* Voorschriften
-* Vliegtuigen
-* Vliegtuiginstrumenten
-* Elektrische installaties
+* [Voorschriften](/docs/voorschriften)
+* [Vliegtuigen](vliegtuigen)
+* [Vliegtuiginstrumenten](vliegtuiginstrumenten)
+* [Elektrische installaties](elektrische installaties)
 
 
 
