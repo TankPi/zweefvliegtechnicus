@@ -13,9 +13,9 @@ Leren voor AML
 * maximale geligheid deelcertificaat voorschriften achterhalen
 
 ## Vakken AML A
+* [Elektrische installaties](/docs/elektrische_installaties.md)
 * [Vliegtuigen](/docs/vliegtuigen.md)
 * [Vliegtuiginstrumenten](/docs/vliegtuiginstrumenten.md)
-* [Elektrische installaties](/docs/elektrische_installaties.md)
 * [~~Voorschriften (reeds behaald)~~](/docs/voorschriften.md)
 
 ## links:
