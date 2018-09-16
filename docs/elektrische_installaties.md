@@ -1,5 +1,9 @@
 # Elektrische installaties
 ## Log
+| datum       | wat?        |
+|---          |---          |
+| 16-09       |             |
+|             |             |
 
 ## Leerstof
 - [VII_Elektrotechniek.pdf](http://ctz.zweefportaal.nl/main/Technicus/TechnicusHandboek2007/VII_Elektrotechniek.pdf)
