@@ -15,7 +15,13 @@
 
 ## Samenvatting
 ### De krachten op het vliegtuig
+1. luchtkrachten
+1. zwaartekracht (gravitatiekracht)
+1. voortstuwende krachten
+1. traagheidskrachten en landingsstoten
+1. kracht
 ### Natuurkundige eigenschappen van de lucht
+
 ### Aerodynamica
 ### Vliegmechanica
 ### Bepalen van het zwaartepunt
