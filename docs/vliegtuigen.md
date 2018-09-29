@@ -23,5 +23,6 @@
 ### Natuurkundige eigenschappen van de lucht
 
 ### Aerodynamica
+- Het drukpunt is het snijpunt van de werklijn van de resulterende kracht F en de koorde 
 ### Vliegmechanica
 ### Bepalen van het zwaartepunt
