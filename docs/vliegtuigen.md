@@ -23,7 +23,7 @@
 ### Natuurkundige eigenschappen van de lucht
 
 ### Aerodynamica
-- Het drukpunt is het snijpunt van de werklijn van de resulterende kracht F en de koorde.
+- Het drukpunt is het snijpunt van de werklijn van de resulterende kracht F en de koorde. (verschuift bij asymmetrische profielen)
 - Het aerodymisch centrum is dát punt op de koorde van het profiel waar het moment constant is en
 onafhankelijk is van de lift.
 ### Vliegmechanica
