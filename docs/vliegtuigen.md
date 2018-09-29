@@ -12,3 +12,9 @@
 - [2004](http://ctz.zweefportaal.nl/main/Technicus/Examens/Examen_AML-A_Vliegtuigen_2004.pdf)
 - [2006 maart](http://ctz.zweefportaal.nl/main/Technicus/Examens/Examen_AML-A_Vliegtuigen_2006-03.pdf)
 - [2006 oktober](http://ctz.zweefportaal.nl/main/Technicus/Examens/Examen_AML-A_Vliegtuigen_2006-10.pdf)
+
+## Samenvatting
+### Natuurkundige eigenschappen van de lucht
+### Aerodynamica
+### Vliegmechanica
+### Bepalen van het zwaartepunt
