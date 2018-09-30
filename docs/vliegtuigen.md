@@ -35,4 +35,6 @@ ligt
 ## Samenvatting: contructie
 ### Contructie
 - Vakwerk:
-  - Nadeel: gevoelig inwendige corrosie
+  Nadeel: 
+  - Gevoelig inwendige corrosie
+  - Bij een harde landing ontstaat vaak een stuikbreuk van de ondergording
