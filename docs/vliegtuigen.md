@@ -13,7 +13,7 @@
 - [2006 maart](http://ctz.zweefportaal.nl/main/Technicus/Examens/Examen_AML-A_Vliegtuigen_2006-03.pdf)
 - [2006 oktober](http://ctz.zweefportaal.nl/main/Technicus/Examens/Examen_AML-A_Vliegtuigen_2006-10.pdf)
 
-## Samenvatting
+## Samenvatting: vliegtuigen
 ### De krachten op het vliegtuig
 1. luchtkrachten
 1. zwaartekracht (gravitatiekracht)
@@ -31,3 +31,8 @@ onafhankelijk is van de lift.
 - Een vliegtuig is statisch langsstabiel als het zwaartepunt vóór het neutrale punt van het vliegtuig
 ligt
 ### Bepalen van het zwaartepunt
+
+## Samenvatting: contructie
+### Contructie
+- Vakwerk:
+  - Nadeel: gevoelig inwendige corrosie
