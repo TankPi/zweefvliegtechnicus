@@ -26,5 +26,6 @@
 - Het drukpunt is het snijpunt van de werklijn van de resulterende kracht F en de koorde. (verschuift bij asymmetrische profielen)
 - Het aerodymisch centrum is dát punt op de koorde van het profiel waar het moment constant is en
 onafhankelijk is van de lift.
+- De slankheid is de verhouding tussen de vleugelspanwijdte en de gemiddelde vleugelkoorde.
 ### Vliegmechanica
 ### Bepalen van het zwaartepunt
