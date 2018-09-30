@@ -28,4 +28,6 @@
 onafhankelijk is van de lift.
 - De slankheid $\Lambda$ is de verhouding tussen de vleugelspanwijdte en de gemiddelde vleugelkoorde.
 ### Vliegmechanica
+- Een vliegtuig is statisch langsstabiel als het zwaartepunt vóór het neutrale punt van het vliegtuig
+ligt
 ### Bepalen van het zwaartepunt
