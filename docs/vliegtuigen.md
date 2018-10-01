@@ -1,6 +1,6 @@
 # Vliegtuigen
 ## Leerstof
-- [III_Vliegtuigen.pdf](http://ctz.zweefportaal.nl/main/Technicus/TechnicusHandboek2007/III_Vliegtuigen.pdf) [samenvatting](docs/vliegtuigen_samenvatting.md)
+- [III_Vliegtuigen.pdf](http://ctz.zweefportaal.nl/main/Technicus/TechnicusHandboek2007/III_Vliegtuigen.pdf) [(samenvatting)](vliegtuigen_samenvatting.md)
 - [IV_Constructie.pdf](http://ctz.zweefportaal.nl/main/Technicus/TechnicusHandboek2007/IV_Constructie.pdf)
 - [V_Materialen.pdf](http://ctz.zweefportaal.nl/main/Technicus/TechnicusHandboek2007/V_Materialen.pdf)
 ## Oude examens
